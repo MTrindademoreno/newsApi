@@ -1,1 +1,3 @@
 # newsApi
+
+## consumindo api NewsApi
